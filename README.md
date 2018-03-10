@@ -1,2 +1,2 @@
-# poissoncoin
-Protocols of PoissonCoin satirical cryptocurrency
+# PoissonCoin
+PoissonCoin is a pataphysical cryptocurrency
