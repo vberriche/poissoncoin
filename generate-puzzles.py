@@ -42,7 +42,7 @@ for n in range(0,21):		# nombre de puzzle
 	for k in range(0,12):
 		nom+=base58[al(0,57)]
 
-	# I let you programm something to save filenames
+	# I let you program something to save filenames
 
 	# Enregistrer l'image
 	puzzle.save("images/puzzle-"+nom+".png")
